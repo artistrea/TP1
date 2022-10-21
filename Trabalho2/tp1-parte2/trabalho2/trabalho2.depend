@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1661622846 source:c:\users\enzo\desktop\tp1-parte2\trabalho2\constantes.cpp
+	"Dominios.h"
+
+1662324005 c:\users\enzo\desktop\tp1-parte2\trabalho2\dominios.h
+	<stdexcept>
+	<ctype.h>
+	<string>
+	<regex>
+	<unordered_set>
+
+1662324005 source:c:\users\enzo\desktop\tp1-parte2\trabalho2\dominios.cpp
+	"Dominios.h"
+	<iostream>
+
+1662500257 source:c:\users\enzo\desktop\tp1-parte2\trabalho2\entidades.cpp
+	"Entidades.h"
+	<stdexcept>
+
+1662500257 c:\users\enzo\desktop\tp1-parte2\trabalho2\entidades.h
+	"Dominios.h"
+
+1662500257 source:c:\users\enzo\desktop\tp1-parte2\trabalho2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Containers.h"
+	"Modulos.h"
+
+1662515062 source:c:\users\enzo\desktop\tp1-parte2\trabalho2\modulos.cpp
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Modulos.h"
+	<iostream>
+	<string.h>
+	<random>
+	<algorithm>
+
+1662513354 c:\users\enzo\desktop\tp1-parte2\trabalho2\interfaces.h
+	"Dominios.h"
+	<stdexcept>
+
+1662513331 c:\users\enzo\desktop\tp1-parte2\trabalho2\modulos.h
+	"Dominios.h"
+	"Interfaces.h"
+	"Containers.h"
+	<iostream>
+	<string.h>
+
+1662324864 source:c:\users\cassi\documents\codas\tp1-parte2\trabalho2\constantes.cpp
+	"Dominios.h"
+
+1662324864 c:\users\cassi\documents\codas\tp1-parte2\trabalho2\dominios.h
+	<stdexcept>
+	<ctype.h>
+	<string>
+	<regex>
+	<unordered_set>
+
+1662324864 source:c:\users\cassi\documents\codas\tp1-parte2\trabalho2\dominios.cpp
+	"Dominios.h"
+	<iostream>
+
+1662415723 source:c:\users\cassi\documents\codas\tp1-parte2\trabalho2\entidades.cpp
+	"Entidades.h"
+	<stdexcept>
+
+1662415723 c:\users\cassi\documents\codas\tp1-parte2\trabalho2\entidades.h
+	"Dominios.h"
+
+1662434693 source:c:\users\cassi\documents\codas\tp1-parte2\trabalho2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Containers.h"
+	"Modulos.h"
+
+1662434636 c:\users\cassi\documents\codas\tp1-parte2\trabalho2\interfaces.h
+	"Dominios.h"
+	<stdexcept>
+
+1662434676 c:\users\cassi\documents\codas\tp1-parte2\trabalho2\modulos.h
+	"Dominios.h"
+	"Interfaces.h"
+	"Containers.h"
+	<iostream>
+	<string.h>
+
+1662435892 source:c:\users\cassi\documents\codas\tp1-parte2\trabalho2\modulos.cpp
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Modulos.h"
+	<iostream>
+	<string.h>
+	<random>
+	<algorithm>
+
+1662331157 source:c:\users\cassi\documents\codas\tp1-parte2\trabalho2\containers.cpp
+
+1662434636 c:\users\cassi\documents\codas\tp1-parte2\trabalho2\containers.h
+	"Dominios.h"
+	"Entidades.h"
+	<math.h>
+	<string>
+	<unordered_map>
+	<vector>
+
+1662429957 c:\users\enzo\desktop\tp1-parte2\trabalho2\containers.h
+	"Dominios.h"
+	"Entidades.h"
+	<math.h>
+	<string>
+	<unordered_map>
+	<vector>
+
+1662323933 source:/home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Constantes.cpp
+	"Dominios.h"
+
+1662323941 /home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Dominios.h
+	<stdexcept>
+	<ctype.h>
+	<string>
+	<regex>
+	<unordered_set>
+
+1662323939 source:/home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Dominios.cpp
+	"Dominios.h"
+	<iostream>
+
+1662471977 source:/home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Entidades.cpp
+	"Entidades.h"
+	<stdexcept>
+
+1662471952 /home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Entidades.h
+	"Dominios.h"
+
+1662467367 source:/home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Containers.h"
+	"Modulos.h"
+
+1662515796 /home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Interfaces.h
+	"Dominios.h"
+	<stdexcept>
+
+1662508859 /home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Containers.h
+	"Dominios.h"
+	"Entidades.h"
+	<math.h>
+	<string>
+	<unordered_map>
+	<vector>
+
+1662515796 /home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Modulos.h
+	"Dominios.h"
+	"Interfaces.h"
+	"Containers.h"
+	<iostream>
+	<string.h>
+
+1662473262 source:/home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Modulos.cpp
+	"Dominios.h"
+	"Entidades.h"
+	"Interfaces.h"
+	"Modulos.h"
+	<iostream>
+	<string.h>
+	<random>
+	<algorithm>
+
+1662329960 source:/home/artistreak/Desktop/progr/cpp/TP1/Trabalho2/tp1-parte2/trabalho2/Containers.cpp
+

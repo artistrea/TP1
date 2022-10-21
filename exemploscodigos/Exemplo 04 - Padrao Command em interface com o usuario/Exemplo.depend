@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1622667421 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\comandos.cpp
+	"comandos.h"
+
+1622666827 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622667202 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1622666563 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\dominios.h
+	<stdexcept>
+
+1622666563 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\entidades.h
+	"dominios.h"
+	<string>
+
+1622667358 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1622667358 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622666563 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\dominios.cpp
+	"dominios.h"
+
+1553884746 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\entidades.cpp
+	"entidades.h"
+
+1622667202 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622667202 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622667202 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\stubs.cpp
+	"stubs.h"
+
+1622667421 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\comandos.cpp
+	"comandos.h"
+
+1622666827 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622667202 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1622666563 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\dominios.h
+	<stdexcept>
+
+1622666563 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\entidades.h
+	"dominios.h"
+	<string>
+
+1622667358 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1622667358 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622666563 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\dominios.cpp
+	"dominios.h"
+
+1553884746 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\entidades.cpp
+	"entidades.h"
+
+1622667202 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622667202 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622667202 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 04 - padrao command em interface com o usuario\stubs.cpp
+	"stubs.h"
+
+1622667421 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\comandos.cpp
+	"comandos.h"
+
+1622666827 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1654105494 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1622666563 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\dominios.h
+	<stdexcept>
+
+1654105494 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\entidades.h
+	"dominios.h"
+	<string>
+
+1622667358 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1622667358 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622666563 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\dominios.cpp
+	"dominios.h"
+
+1553884746 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\entidades.cpp
+	"entidades.h"
+
+1622667202 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622667202 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622667202 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 04 - padrao command em interface com o usuario\stubs.cpp
+	"stubs.h"
+

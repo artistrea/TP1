@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1506547984 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\controladoras.cpp
+	"controladoras.h"
+
+1506549108 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+
+1507652564 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1506547851 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\dominios.h
+	<stdexcept>
+
+1506549312 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\entidades.h
+	"dominios.h"
+	<string>
+
+1506547851 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\dominios.cpp
+	"dominios.h"
+
+1506547851 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\entidades.cpp
+	"entidades.h"
+
+1507652456 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1506549312 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1506547182 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 2\stubs.cpp
+	"stubs.h"
+
+1506551451 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 5\dominios.cpp
+	"dominios.h"
+
+1506551451 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 5\dominios.h
+	<stdexcept>
+
+1508416523 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 5\entidades.cpp
+	"entidades.h"
+
+1508416523 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 5\entidades.h
+	"dominios.h"
+	<string>
+
+1508416523 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 5\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	"dominios.h"
+	"entidades.h"
+
+1506551451 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\dominios.cpp
+	"dominios.h"
+
+1509452396 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\dominios.h
+	<stdexcept>
+
+1508416523 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\entidades.cpp
+	"entidades.h"
+
+1509448334 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\entidades.h
+	"dominios.h"
+	<string>
+
+1509464662 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+
+1509452790 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\controladoras.cpp
+	"controladoras.h"
+
+1509452790 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<list>
+
+1509452626 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1509464248 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\containers.cpp
+	"containers.h"
+
+1509463178 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplo 6\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1605721123 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\containers.cpp
+	"containers.h"
+
+1605720522 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1605037556 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\dominios.h
+	<stdexcept>
+
+1553884748 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\entidades.h
+	"dominios.h"
+	<string>
+
+1605037571 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\dominios.cpp
+	"dominios.h"
+
+1553884748 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\entidades.cpp
+	"entidades.h"
+
+1605721326 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 6\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+
+1622603241 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\containers.cpp
+	"containers.h"
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\dominios.h
+	<stdexcept>
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\entidades.h
+	"dominios.h"
+	<string>
+
+1622602949 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\dominios.cpp
+	"dominios.h"
+
+1553884748 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\entidades.cpp
+	"entidades.h"
+
+1622603241 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 6\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+
+1622667827 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\containers.cpp
+	"containers.h"
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1622667827 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\dominios.h
+	<stdexcept>
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\entidades.h
+	"dominios.h"
+	<string>
+
+1622602949 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\dominios.cpp
+	"dominios.h"
+
+1553884748 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\entidades.cpp
+	"entidades.h"
+
+1622667827 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - classe container\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+
+1622667827 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\containers.cpp
+	"containers.h"
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1622667827 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\dominios.h
+	<stdexcept>
+
+1622603241 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\entidades.h
+	"dominios.h"
+	<string>
+
+1622602949 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\dominios.cpp
+	"dominios.h"
+
+1553884748 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\entidades.cpp
+	"entidades.h"
+
+1622667827 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 06 - estrutura de container\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"dominios.h"
+	"entidades.h"
+	"containers.h"
+

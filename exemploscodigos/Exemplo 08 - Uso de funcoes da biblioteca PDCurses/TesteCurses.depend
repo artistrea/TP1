@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1603856476 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\testecurses\main.cpp
+	<string.h>
+	"curses.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\testecurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1605897240 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13\main.cpp
+	<string.h>
+	"curses.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1605897240 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - funções da biblioteca pdcurses\main.cpp
+	<string.h>
+	"curses.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - funções da biblioteca pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622671561 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - uso de funções da biblioteca pdcurses\main.cpp
+	<string.h>
+	"curses.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - uso de funções da biblioteca pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+

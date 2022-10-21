@@ -1,0 +1,291 @@
+# depslib dependency file v1.0
+1572036516 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\comandos.cpp
+	"comandos.h"
+
+1553884746 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1572036481 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1553884746 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\dominios.h
+	<stdexcept>
+
+1553884746 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\entidades.h
+	"dominios.h"
+	<string>
+
+1572037662 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1572036931 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1553884746 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\dominios.cpp
+	"dominios.h"
+
+1553884746 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\entidades.cpp
+	"entidades.h"
+
+1572037273 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1572036600 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1572037443 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\stubs.cpp
+	"stubs.h"
+
+1605037290 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\comandos.cpp
+	"comandos.h"
+
+1605037191 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1605037256 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1605037157 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\dominios.h
+	<stdexcept>
+
+1553884746 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\entidades.h
+	"dominios.h"
+	<string>
+
+1605037191 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1605037306 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1605037230 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\dominios.cpp
+	"dominios.h"
+
+1553884746 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\entidades.cpp
+	"entidades.h"
+
+1572037273 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1605037347 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1605037347 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 4\stubs.cpp
+	"stubs.h"
+
+1622601320 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\comandos.cpp
+	"comandos.h"
+
+1622600503 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622601228 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1622600676 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\dominios.h
+	<stdexcept>
+
+1622601228 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\entidades.h
+	"dominios.h"
+	<string>
+
+1622601320 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1622600676 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622601228 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\dominios.cpp
+	"dominios.h"
+
+1553884746 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\entidades.cpp
+	"entidades.h"
+
+1622601228 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622601228 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622601228 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 4\stubs.cpp
+	"stubs.h"
+
+1622601320 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\comandos.cpp
+	"comandos.h"
+
+1622600503 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622601228 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1622600676 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\dominios.h
+	<stdexcept>
+
+1622601228 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\entidades.h
+	"dominios.h"
+	<string>
+
+1622601320 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1622600676 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622601228 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\dominios.cpp
+	"dominios.h"
+
+1553884746 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\entidades.cpp
+	"entidades.h"
+
+1622601228 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622601228 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622601228 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 4 - padrão command em interface com o usuário\stubs.cpp
+	"stubs.h"
+
+1622667421 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\comandos.cpp
+	"comandos.h"
+
+1622666827 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622667202 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1622666563 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\dominios.h
+	<stdexcept>
+
+1622666563 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\entidades.h
+	"dominios.h"
+	<string>
+
+1622667358 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\controladoras.cpp
+	"controladoras.h"
+	"comandos.h"
+
+1622667358 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622666563 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\dominios.cpp
+	"dominios.h"
+
+1553884746 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\entidades.cpp
+	"entidades.h"
+
+1622667202 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622667202 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622667202 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 04 - padrão command em interface com o usuário\stubs.cpp
+	"stubs.h"
+

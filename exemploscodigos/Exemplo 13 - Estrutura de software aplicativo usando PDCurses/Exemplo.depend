@@ -1,0 +1,381 @@
+# depslib dependency file v1.0
+1604163263 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1604163317 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1604145518 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\interfaces.h
+	"dominios.h"
+
+1603913538 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\dominios.h
+	<stdexcept>
+
+1604163086 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\controladorasservico.cpp
+
+1603910735 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\dominios.cpp
+	"dominios.h"
+
+1604163349 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604147641 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\stubs.cpp
+	"stubs.h"
+
+1604181006 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1604175968 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1604175925 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\dominios.h
+	<stdexcept>
+
+1604181320 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\entidades.h
+	"dominios.h"
+
+1604170366 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1604170366 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasservico.cpp
+	"controladorasservico.h"
+
+1604170366 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1604175910 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\dominios.cpp
+	"dominios.h"
+
+1604169553 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604169516 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604170366 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\stubs.cpp
+	"stubs.h"
+
+1605713245 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1605110379 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1604175925 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\dominios.h
+	<stdexcept>
+
+1604181320 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\entidades.h
+	"dominios.h"
+
+1605711304 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1604170366 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasservico.cpp
+	"controladorasservico.h"
+
+1617116828 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1604175910 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\dominios.cpp
+	"dominios.h"
+
+1604169553 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\stubs.cpp
+	"stubs.h"
+
+1622670312 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622670312 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622670312 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\dominios.h
+	<stdexcept>
+
+1622670312 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\entidades.h
+	"dominios.h"
+
+1605711304 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622670373 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622670373 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622670312 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\dominios.cpp
+	"dominios.h"
+
+1622670312 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604584113 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604584113 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - estrutura de software aplicativo usando pdcurses\stubs.cpp
+	"stubs.h"
+
+1622670312 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622670312 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622670312 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\dominios.h
+	<stdexcept>
+
+1622670312 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\entidades.h
+	"dominios.h"
+
+1605711304 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622670373 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622670373 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622670312 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\dominios.cpp
+	"dominios.h"
+
+1622670312 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604584113 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604584113 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 13 - estrutura de software aplicativo usando pdcurses\stubs.cpp
+	"stubs.h"
+
+1622670312 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622670312 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622670312 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\dominios.h
+	<stdexcept>
+
+1622670312 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\entidades.h
+	"dominios.h"
+
+1605711304 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622670373 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622670373 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622670312 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\dominios.cpp
+	"dominios.h"
+
+1622670312 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\stubs.cpp
+	"stubs.h"
+
+1622670312 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622670312 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622670312 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\dominios.h
+	<stdexcept>
+
+1622670312 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\entidades.h
+	"dominios.h"
+
+1605711304 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622670373 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622670373 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622670312 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\dominios.cpp
+	"dominios.h"
+
+1622670312 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 13 - estrutura de software aplicativo usando pdcurses\stubs.cpp
+	"stubs.h"
+

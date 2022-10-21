@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1604949360 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\main.cpp
+	<cstdlib>
+	<iostream>
+	"UnidadeControladoras.h"
+
+1553884750 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadecontroladoras.h
+	<iostream>
+	<conio.h>
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	"UnidadePersistencia.h"
+
+1604949677 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadetiposbasicos.h
+	<string>
+	<stdexcept>
+
+1553884750 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadeentidades.h
+	"UnidadeTiposBasicos.h"
+
+1605034081 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadepersistencia.h
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	<list>
+	<iostream>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1604950702 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\sqlite3.h
+	<stdarg.h>
+
+1604954042 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadecontroladoras.cpp
+	"UnidadeControladoras.h"
+
+1553884750 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadeentidades.cpp
+	"UnidadeEntidades.h"
+
+1604952994 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadepersistencia.cpp
+	"UnidadePersistencia.h"
+
+1604949729 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 7\teste\unidadetiposbasicos.cpp
+	"UnidadeTiposBasicos.h"
+
+1604949360 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\main.cpp
+	<cstdlib>
+	<iostream>
+	"UnidadeControladoras.h"
+
+1553884750 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadecontroladoras.h
+	<iostream>
+	<conio.h>
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	"UnidadePersistencia.h"
+
+1604949677 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadetiposbasicos.h
+	<string>
+	<stdexcept>
+
+1553884750 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadeentidades.h
+	"UnidadeTiposBasicos.h"
+
+1605034081 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadepersistencia.h
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	<list>
+	<iostream>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1604950702 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\sqlite3.h
+	<stdarg.h>
+
+1604954042 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadecontroladoras.cpp
+	"UnidadeControladoras.h"
+
+1553884750 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadeentidades.cpp
+	"UnidadeEntidades.h"
+
+1604952994 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadepersistencia.cpp
+	"UnidadePersistencia.h"
+
+1604949729 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 7 - sqlite\teste\unidadetiposbasicos.cpp
+	"UnidadeTiposBasicos.h"
+
+1622668105 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\main.cpp
+	<cstdlib>
+	<iostream>
+	"UnidadeControladoras.h"
+
+1622604480 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadecontroladoras.h
+	<iostream>
+	<conio.h>
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	"UnidadePersistencia.h"
+
+1622604480 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadetiposbasicos.h
+	<string>
+	<stdexcept>
+
+1622604480 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadeentidades.h
+	"UnidadeTiposBasicos.h"
+
+1622668105 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadepersistencia.h
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	<list>
+	<iostream>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1604950702 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\sqlite3.h
+	<stdarg.h>
+
+1622604480 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadecontroladoras.cpp
+	"UnidadeControladoras.h"
+
+1622604480 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadeentidades.cpp
+	"UnidadeEntidades.h"
+
+1622668105 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadepersistencia.cpp
+	"UnidadePersistencia.h"
+
+1622604695 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - repositório com sqlite\teste\unidadetiposbasicos.cpp
+	"UnidadeTiposBasicos.h"
+
+1622668105 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\main.cpp
+	<cstdlib>
+	<iostream>
+	"UnidadeControladoras.h"
+
+1622604480 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadecontroladoras.h
+	<iostream>
+	<conio.h>
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	"UnidadePersistencia.h"
+
+1622604480 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadetiposbasicos.h
+	<string>
+	<stdexcept>
+
+1622604480 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadeentidades.h
+	"UnidadeTiposBasicos.h"
+
+1622668105 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadepersistencia.h
+	"UnidadeTiposBasicos.h"
+	"UnidadeEntidades.h"
+	<list>
+	<iostream>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1604950702 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\sqlite3.h
+	<stdarg.h>
+
+1622604480 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadecontroladoras.cpp
+	"UnidadeControladoras.h"
+
+1622604480 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadeentidades.cpp
+	"UnidadeEntidades.h"
+
+1622668105 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadepersistencia.cpp
+	"UnidadePersistencia.h"
+
+1622604695 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 07 - implementação de repositório com sqlite\teste\unidadetiposbasicos.cpp
+	"UnidadeTiposBasicos.h"
+

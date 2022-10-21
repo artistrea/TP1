@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1605036571 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\controladoras.cpp
+	"controladoras.h"
+	"telas.h"
+
+1605036563 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1605036551 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\interfaces.h
+	"dominios.h"
+	<stdexcept>
+
+1605036513 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\dominios.h
+	<stdexcept>
+
+1605036596 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\telas.h
+	"dominios.h"
+	<string.h>
+	<stdlib.h>
+	"curses.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1605036533 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\dominios.cpp
+	"dominios.h"
+
+1571957172 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1605036596 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1605036596 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\stubs.cpp
+	"stubs.h"
+
+1605036607 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 8\teste\telas.cpp
+	"telas.h"
+
+1605036571 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\controladoras.cpp
+	"controladoras.h"
+	"telas.h"
+
+1605036563 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622668435 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\interfaces.h
+	"dominios.h"
+	<stdexcept>
+
+1622668609 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\dominios.h
+	<stdexcept>
+
+1622668812 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\telas.h
+	"dominios.h"
+	<string.h>
+	<stdlib.h>
+	"curses.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622668662 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\dominios.cpp
+	"dominios.h"
+
+1622668435 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622668435 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622668812 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\stubs.cpp
+	"stubs.h"
+
+1622668812 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - construção de tela com pdcurses\teste\telas.cpp
+	"telas.h"
+
+1605036571 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\controladoras.cpp
+	"controladoras.h"
+	"telas.h"
+
+1605036563 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1622668435 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\interfaces.h
+	"dominios.h"
+	<stdexcept>
+
+1622668609 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\dominios.h
+	<stdexcept>
+
+1622668812 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\telas.h
+	"dominios.h"
+	<string.h>
+	<stdlib.h>
+	"curses.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622668662 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\dominios.cpp
+	"dominios.h"
+
+1622668435 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622668435 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1622668812 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\stubs.cpp
+	"stubs.h"
+
+1622668812 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 09 - construção de tela com pdcurses\teste\telas.cpp
+	"telas.h"
+

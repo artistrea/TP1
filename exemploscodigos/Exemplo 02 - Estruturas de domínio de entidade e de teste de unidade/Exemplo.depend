@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1622665516 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.cpp
+	"dominios.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.h
+	<stdexcept>
+
+1553884742 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.cpp
+	"entidades.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622665760 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1622665147 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1625252204 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.cpp
+	"testes.h"
+
+1622665516 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.cpp
+	"dominios.h"
+
+1622665516 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.h
+	<stdexcept>
+
+1553884742 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.cpp
+	"entidades.h"
+
+1622665516 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622665760 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1622665147 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1625252204 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.cpp
+	"testes.h"
+
+1622665516 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.cpp
+	"dominios.h"
+
+1622665516 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.h
+	<stdexcept>
+
+1553884742 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.cpp
+	"entidades.h"
+
+1622665516 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622665760 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1644326751 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1625252204 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.cpp
+	"testes.h"
+

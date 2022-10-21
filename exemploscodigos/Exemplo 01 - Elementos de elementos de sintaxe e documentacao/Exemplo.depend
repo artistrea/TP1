@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1622597242 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 01 - elementos de elementos de sintaxe e documentação\dominios.cpp
+	"Dominios.h"
+
+1625252106 h"
+
+1622664615 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 01 - elementos de elementos de sintaxe e documentação\dominios.h
+	<stdexcept>
+
+1654105251 >
+
+1625252106 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 01 - elementos de elementos de sintaxe e documentação\main.cpp
+	<iostream>
+	"Dominios.h"
+
+1622597242 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 01 - elementos de elementos de sintaxe e documentacao\dominios.cpp
+	"Dominios.h"
+
+1622664615 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 01 - elementos de elementos de sintaxe e documentacao\dominios.h
+	<stdexcept>
+
+1625252106 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 01 - elementos de elementos de sintaxe e documentacao\main.cpp
+	<iostream>
+	"Dominios.h"
+
+1622597242 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 01 - elementos de elementos de sintaxe e documentacao\dominios.cpp
+	"Dominios.h"
+
+1654105251 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 01 - elementos de elementos de sintaxe e documentacao\dominios.h
+	<stdexcept>
+
+1625252106 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 01 - elementos de elementos de sintaxe e documentacao\main.cpp
+	<iostream>
+	"Dominios.h"
+
+1622597244 source:/home/artistreak/Desktop/progr/cpp/TP1/exemploscodigos/Exemplo 01 - Elementos de elementos de sintaxe e documentacao/Dominios.cpp
+	"Dominios.h"
+
+1654105252 /home/artistreak/Desktop/progr/cpp/TP1/exemploscodigos/Exemplo 01 - Elementos de elementos de sintaxe e documentacao/Dominios.h
+	<stdexcept>
+
+1656025936 source:/home/artistreak/Desktop/progr/cpp/TP1/exemploscodigos/Exemplo 01 - Elementos de elementos de sintaxe e documentacao/main.cpp
+	<iostream>
+	"Dominios.h"
+

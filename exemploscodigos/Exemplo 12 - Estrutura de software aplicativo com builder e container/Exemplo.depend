@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1605962885 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\builders.cpp
+	"builders.h"
+
+1605905683 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\builders.h
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+	"stubs.h"
+
+1605711978 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1605901351 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\dominios.h
+	<stdexcept>
+
+1604181320 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\entidades.h
+	"dominios.h"
+
+1605115300 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1605900794 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"containers.h"
+
+1605905906 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1605962885 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\containers.cpp
+	"containers.h"
+
+1605116408 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1605962904 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\controladorasservico.cpp
+	"controladorasservico.h"
+
+1604175910 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\dominios.cpp
+	"dominios.h"
+
+1605906028 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"builders.h"
+	"controladorasapresentacao.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 14\stubs.cpp
+	"stubs.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\builders.cpp
+	"builders.h"
+
+1605905683 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\builders.h
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+	"stubs.h"
+
+1622671356 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622671356 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\dominios.h
+	<stdexcept>
+
+1622671356 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\entidades.h
+	"dominios.h"
+
+1605115300 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622671077 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"containers.h"
+
+1622671431 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1604584113 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1622671431 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\containers.cpp
+	"containers.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622671175 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\dominios.cpp
+	"dominios.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"builders.h"
+	"controladorasapresentacao.h"
+
+1604584113 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e containers\stubs.cpp
+	"stubs.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\builders.cpp
+	"builders.h"
+
+1605905683 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\builders.h
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+	"stubs.h"
+
+1622671356 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622671356 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\dominios.h
+	<stdexcept>
+
+1622671356 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\entidades.h
+	"dominios.h"
+
+1605115300 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622671077 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"containers.h"
+
+1622671431 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1604584113 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1622671431 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\containers.cpp
+	"containers.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622671175 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\dominios.cpp
+	"dominios.h"
+
+1622671077 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"builders.h"
+	"controladorasapresentacao.h"
+
+1604584113 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 12 - estrutura de software aplicativo com builder e container\stubs.cpp
+	"stubs.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\builders.cpp
+	"builders.h"
+
+1605905683 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\builders.h
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+	"stubs.h"
+
+1622671356 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622671356 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\dominios.h
+	<stdexcept>
+
+1622671356 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\entidades.h
+	"dominios.h"
+
+1605115300 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622671077 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"containers.h"
+
+1622671431 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1622671431 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\containers.cpp
+	"containers.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622671175 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\dominios.cpp
+	"dominios.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"builders.h"
+	"controladorasapresentacao.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 12 - estrutura de software aplicativo com builder e container\stubs.cpp
+	"stubs.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\builders.cpp
+	"builders.h"
+
+1605905683 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\builders.h
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+	"stubs.h"
+
+1622671356 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1622671356 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\dominios.h
+	<stdexcept>
+
+1622671356 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\entidades.h
+	"dominios.h"
+
+1605115300 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1622671077 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"containers.h"
+
+1622671431 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\containers.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1622671431 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\containers.cpp
+	"containers.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\controladorasservico.cpp
+	"controladorasservico.h"
+
+1622671175 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\dominios.cpp
+	"dominios.h"
+
+1622671077 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"builders.h"
+	"controladorasapresentacao.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12 - estrutura de software aplicativo com builder e container\stubs.cpp
+	"stubs.h"
+

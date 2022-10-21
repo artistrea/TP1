@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "map": "cpp",
+        "cmath": "cpp",
+        "stdexcept": "cpp",
+        "istream": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp"
+    }
+}

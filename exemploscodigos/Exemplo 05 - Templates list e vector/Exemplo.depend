@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1622602248 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 05 - templates list e vector\dominios.cpp
+	"dominios.h"
+
+1622667640 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 05 - templates list e vector\dominios.h
+	<stdexcept>
+
+1553884748 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 05 - templates list e vector\entidades.cpp
+	"entidades.h"
+
+1622602248 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 05 - templates list e vector\entidades.h
+	"dominios.h"
+	<string>
+
+1622667574 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 05 - templates list e vector\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	"dominios.h"
+	"entidades.h"
+
+1622602248 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 05 - templates list e vector\dominios.cpp
+	"dominios.h"
+
+1622667640 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 05 - templates list e vector\dominios.h
+	<stdexcept>
+
+1553884748 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 05 - templates list e vector\entidades.cpp
+	"entidades.h"
+
+1622602248 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 05 - templates list e vector\entidades.h
+	"dominios.h"
+	<string>
+
+1622667574 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 05 - templates list e vector\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	"dominios.h"
+	"entidades.h"
+
+1622602248 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 05 - templates list e vector\dominios.cpp
+	"dominios.h"
+
+1622667640 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 05 - templates list e vector\dominios.h
+	<stdexcept>
+
+1553884748 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 05 - templates list e vector\entidades.cpp
+	"entidades.h"
+
+1622602248 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 05 - templates list e vector\entidades.h
+	"dominios.h"
+	<string>
+
+1622667574 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 05 - templates list e vector\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	"dominios.h"
+	"entidades.h"
+

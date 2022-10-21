@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1613699877 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 9\dominios.cpp
+	"Dominios.h"
+
+1613699876 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 9\dominios.h
+	<stdexcept>
+
+1613699876 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 9\main.cpp
+	<iostream>
+	"Dominios.h"
+
+1622597242 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 9\dominios.cpp
+	"Dominios.h"
+
+1622597360 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 9\dominios.h
+	<stdexcept>
+
+1622597360 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 9\main.cpp
+	<iostream>
+	"Dominios.h"
+
+1622597242 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 1 - elementos de sintaxe\dominios.cpp
+	"Dominios.h"
+
+1622597360 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 1 - elementos de sintaxe\dominios.h
+	<stdexcept>
+
+1622597360 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 1 - elementos de sintaxe\main.cpp
+	<iostream>
+	"Dominios.h"
+
+1622597242 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 01 - elementos de elementos de sintaxe e documentação\dominios.cpp
+	"Dominios.h"
+
+1622664615 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 01 - elementos de elementos de sintaxe e documentação\dominios.h
+	<stdexcept>
+
+1625252106 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 01 - elementos de elementos de sintaxe e documentação\main.cpp
+	<iostream>
+	"Dominios.h"
+

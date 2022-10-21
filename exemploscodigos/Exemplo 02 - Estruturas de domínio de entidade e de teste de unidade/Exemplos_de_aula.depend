@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1622595636 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\dominios.cpp
+	"dominios.h"
+
+1622594637 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\dominios.h
+	<stdexcept>
+
+1553884742 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\entidades.cpp
+	"entidades.h"
+
+1622595636 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\entidades.h
+	"dominios.h"
+	<string>
+
+1622595710 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1622595710 d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1622595710 source:d:\documentos\cursos\tp1\exemplos de códigos\exemplo 1\testes.cpp
+	"testes.h"
+
+1622595636 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\dominios.cpp
+	"dominios.h"
+
+1622594637 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\dominios.h
+	<stdexcept>
+
+1553884742 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\entidades.cpp
+	"entidades.h"
+
+1622595636 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622598558 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1622595710 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1622595710 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 2 - estruturas de domínio e entidade\testes.cpp
+	"testes.h"
+
+1622665516 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio - entidade - teste de unidade\dominios.cpp
+	"dominios.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio - entidade - teste de unidade\dominios.h
+	<stdexcept>
+
+1553884742 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio - entidade - teste de unidade\entidades.cpp
+	"entidades.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio - entidade - teste de unidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622665186 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio - entidade - teste de unidade\testes.cpp
+	"testes.h"
+
+1622665147 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio - entidade - teste de unidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1622665516 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\dominios.cpp
+	"dominios.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\dominios.h
+	<stdexcept>
+
+1553884742 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\entidades.cpp
+	"entidades.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622665760 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1622665147 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1622665186 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio, entidade e teste de unidade\testes.cpp
+	"testes.h"
+
+1622665516 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.cpp
+	"dominios.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\dominios.h
+	<stdexcept>
+
+1553884742 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.cpp
+	"entidades.h"
+
+1622665516 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\entidades.h
+	"dominios.h"
+	<string>
+
+1622665760 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+
+1622665147 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.h
+	"dominios.h"
+	"entidades.h"
+
+1625252204 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 02 - estruturas de domínio de entidade e de teste de unidade\testes.cpp
+	"testes.h"
+

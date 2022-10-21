@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1622666135 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\controladoras.cpp
+	"controladoras.h"
+
+1622666135 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+
+1622666166 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\interfaces.h
+	"dominios.h"
+	<stdexcept>
+
+1622666135 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\dominios.h
+	<stdexcept>
+
+1622666214 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\dominios.cpp
+	"dominios.h"
+
+1622666277 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622666277 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1622666298 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 03 - estruturas de controladora e de stub\stubs.cpp
+	"stubs.h"
+
+1622666135 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\controladoras.cpp
+	"controladoras.h"
+
+1622666135 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+
+1622666166 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\interfaces.h
+	"dominios.h"
+	<stdexcept>
+
+1622666135 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\dominios.h
+	<stdexcept>
+
+1622666214 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\dominios.cpp
+	"dominios.h"
+
+1622666277 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622666277 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1622666298 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 03 - estruturas de controladora e de stub\stubs.cpp
+	"stubs.h"
+
+1622666135 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\controladoras.cpp
+	"controladoras.h"
+
+1622666135 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\controladoras.h
+	"interfaces.h"
+	"dominios.h"
+	<stdexcept>
+	<iostream>
+
+1630595758 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\interfaces.h
+	"dominios.h"
+	<stdexcept>
+
+1622666135 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\dominios.h
+	<stdexcept>
+
+1622666214 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\dominios.cpp
+	"dominios.h"
+
+1622666277 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622666277 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\stubs.h
+	"Interfaces.h"
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1622666298 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 03 - estruturas de controladora e de stub\stubs.cpp
+	"stubs.h"
+

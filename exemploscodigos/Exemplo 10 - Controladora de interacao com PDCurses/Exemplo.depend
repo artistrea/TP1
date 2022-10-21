@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1603914275 source:c:\users\ferna\onedrive\documentos\projetos\exemplo\controladoras.cpp
+	"controladoras.h"
+
+1603913950 c:\users\ferna\onedrive\documentos\projetos\exemplo\controladoras.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\onedrive\documentos\projetos\exemplo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1603913950 c:\users\ferna\onedrive\documentos\projetos\exemplo\interfaces.h
+	"dominios.h"
+
+1603913538 c:\users\ferna\onedrive\documentos\projetos\exemplo\dominios.h
+	<stdexcept>
+
+1603910735 source:c:\users\ferna\onedrive\documentos\projetos\exemplo\dominios.cpp
+	"dominios.h"
+
+1603913950 source:c:\users\ferna\onedrive\documentos\projetos\exemplo\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1603914392 c:\users\ferna\onedrive\documentos\projetos\exemplo\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:c:\users\ferna\onedrive\documentos\projetos\exemplo\stubs.cpp
+	"stubs.h"
+
+1603910735 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\dominios.cpp
+	"dominios.h"
+
+1603913538 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\dominios.h
+	<stdexcept>
+
+1603921566 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1603913950 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\interfaces.h
+	"dominios.h"
+
+1603913950 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\controladoras.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603914392 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\stubs.cpp
+	"stubs.h"
+
+1604090469 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10\controladoras.cpp
+	"controladoras.h"
+
+1622669812 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\controladoras.cpp
+	"controladoras.h"
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\controladoras.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\interfaces.h
+	"dominios.h"
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\dominios.h
+	<stdexcept>
+
+1622669747 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\dominios.cpp
+	"dominios.h"
+
+1622669747 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 08 - controladora de interação com pdcurses\stubs.cpp
+	"stubs.h"
+
+1622669812 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\controladoras.cpp
+	"controladoras.h"
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\controladoras.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\interfaces.h
+	"dominios.h"
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\dominios.h
+	<stdexcept>
+
+1622669747 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\dominios.cpp
+	"dominios.h"
+
+1622669747 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622669673 d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:d:\documentos\cursos\tp1\exemplos de códigos - novos\exemplo 10 - controladora de interação com pdcurses\stubs.cpp
+	"stubs.h"
+
+1622669812 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\controladoras.cpp
+	"controladoras.h"
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\controladoras.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\interfaces.h
+	"dominios.h"
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\dominios.h
+	<stdexcept>
+
+1622669747 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\dominios.cpp
+	"dominios.h"
+
+1622669747 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemplocodigos\exemplo 10 - controladora de interacao com pdcurses\stubs.cpp
+	"stubs.h"
+
+1647997904 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\controladoras.cpp
+	"controladoras.h"
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\controladoras.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\interfaces.h
+	"dominios.h"
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\dominios.h
+	<stdexcept>
+
+1622669747 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\dominios.cpp
+	"dominios.h"
+
+1622669747 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1622669673 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 10 - controladora de interacao com pdcurses\stubs.cpp
+	"stubs.h"
+
